@@ -34,3 +34,10 @@ We compared naive implementations against highly optimized versions using **Open
 ├── report/
 │   └── HPC_Report.pdf        # Full technical report
 └── README.md
+
+Authors
+
+    Eliott Oster
+
+    Noa Collet
+    
