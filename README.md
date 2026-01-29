@@ -35,9 +35,11 @@ We compared naive implementations against highly optimized versions using **Open
 │   └── HPC_Report.pdf        # Full technical report
 └── README.md
 
-Authors
+---
 
-    Eliott Oster
+## 👥 Authors
+* **Eliott Oster** 
+* **Noa Collet**
 
-    Noa Collet
-    
+---
+*Developed as part of the GMM Department curriculum at INSA Toulouse.*
