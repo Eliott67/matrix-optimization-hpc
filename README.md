@@ -38,8 +38,7 @@ We compared naive implementations against highly optimized versions using **Open
 ---
 
 ## 👥 Authors
-* **Eliott Oster** 
-* **Noa Collet**
+* **Eliott Oster** * **Noa Collet**
 
 ---
 *Developed as part of the GMM Department curriculum at INSA Toulouse.*
